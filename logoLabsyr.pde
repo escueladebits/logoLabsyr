@@ -50,4 +50,5 @@ void setup() {
   }
   
   noLoop();
+  save("logo.png");
 }
